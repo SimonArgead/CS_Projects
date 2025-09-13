@@ -1,0 +1,14 @@
+/home/simon/c#_ws/BankAccSys/bin/Debug/net8.0/BankAccSys
+/home/simon/c#_ws/BankAccSys/bin/Debug/net8.0/BankAccSys.deps.json
+/home/simon/c#_ws/BankAccSys/bin/Debug/net8.0/BankAccSys.runtimeconfig.json
+/home/simon/c#_ws/BankAccSys/bin/Debug/net8.0/BankAccSys.dll
+/home/simon/c#_ws/BankAccSys/bin/Debug/net8.0/BankAccSys.pdb
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.AssemblyInfoInputs.cache
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.AssemblyInfo.cs
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.csproj.CoreCompileInputs.cache
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.dll
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/refint/BankAccSys.dll
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.pdb
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/BankAccSys.genruntimeconfig.cache
+/home/simon/c#_ws/BankAccSys/obj/Debug/net8.0/ref/BankAccSys.dll
