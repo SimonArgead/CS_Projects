@@ -1,0 +1,14 @@
+/home/simon/c#_ws/HotelBooking/bin/Debug/net8.0/HotelBooking
+/home/simon/c#_ws/HotelBooking/bin/Debug/net8.0/HotelBooking.deps.json
+/home/simon/c#_ws/HotelBooking/bin/Debug/net8.0/HotelBooking.runtimeconfig.json
+/home/simon/c#_ws/HotelBooking/bin/Debug/net8.0/HotelBooking.dll
+/home/simon/c#_ws/HotelBooking/bin/Debug/net8.0/HotelBooking.pdb
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.AssemblyInfoInputs.cache
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.AssemblyInfo.cs
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.csproj.CoreCompileInputs.cache
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.dll
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/refint/HotelBooking.dll
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.pdb
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/HotelBooking.genruntimeconfig.cache
+/home/simon/c#_ws/HotelBooking/obj/Debug/net8.0/ref/HotelBooking.dll
