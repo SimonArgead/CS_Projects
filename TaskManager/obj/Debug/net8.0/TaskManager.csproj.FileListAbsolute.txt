@@ -1,0 +1,14 @@
+/home/simon/c#_ws/TaskManager/bin/Debug/net8.0/TaskManager
+/home/simon/c#_ws/TaskManager/bin/Debug/net8.0/TaskManager.deps.json
+/home/simon/c#_ws/TaskManager/bin/Debug/net8.0/TaskManager.runtimeconfig.json
+/home/simon/c#_ws/TaskManager/bin/Debug/net8.0/TaskManager.dll
+/home/simon/c#_ws/TaskManager/bin/Debug/net8.0/TaskManager.pdb
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfoInputs.cache
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfo.cs
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.csproj.CoreCompileInputs.cache
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.dll
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/refint/TaskManager.dll
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.pdb
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/TaskManager.genruntimeconfig.cache
+/home/simon/c#_ws/TaskManager/obj/Debug/net8.0/ref/TaskManager.dll
