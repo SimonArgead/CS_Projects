@@ -1,2 +1,3 @@
-This project is currently incomplete. The specific issue is that it connects correctly to DMI open data API, correctly establishes a bounding box for which weather measurement stations are in our interest.
-Correctly list them in the terminal, but it doesn't give us any data from the parameters that we desire. I am currently working on fixing this issue. My hypothesis is that I am incorrectly fetching the data, or call the data incorrectly.
+Project Finished.
+
+The project works in 6 steps as given in the program.
